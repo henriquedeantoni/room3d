@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Henrique\\Documents\\CursoNET\\programs\\Room3d\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1252FFBD-49F9-424F-BEEE-F5A426DB57EE}|Room3d.csproj|c:\\users\\henrique\\documents\\cursonet\\programs\\room3d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1252FFBD-49F9-424F-BEEE-F5A426DB57EE}|Room3d.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1252FFBD-49F9-424F-BEEE-F5A426DB57EE}|Room3d.csproj|c:\\users\\henrique\\documents\\cursonet\\programs\\room3d\\core\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1252FFBD-49F9-424F-BEEE-F5A426DB57EE}|Room3d.csproj|solutionrelative:core\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1252FFBD-49F9-424F-BEEE-F5A426DB57EE}|Room3d.csproj|c:\\users\\henrique\\documents\\cursonet\\programs\\room3d\\room3d.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1252FFBD-49F9-424F-BEEE-F5A426DB57EE}|Room3d.csproj|solutionrelative:room3d.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1252FFBD-49F9-424F-BEEE-F5A426DB57EE}|Room3d.csproj|c:\\users\\henrique\\documents\\cursonet\\programs\\room3d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1252FFBD-49F9-424F-BEEE-F5A426DB57EE}|Room3d.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +22,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\programs\\Room3d\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\programs\\Room3d\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T23:01:24.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.cs",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\programs\\Room3d\\Core\\MainWindow.cs",
               "RelativeDocumentMoniker": "Core\\MainWindow.cs",
               "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\programs\\Room3d\\Core\\MainWindow.cs",
               "RelativeToolTip": "Core\\MainWindow.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAcwH4AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T20:17:22.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Room3d.csproj",
               "DocumentMoniker": "C:\\Users\\Henrique\\Documents\\CursoNET\\programs\\Room3d\\Room3d.csproj",
               "RelativeDocumentMoniker": "Room3d.csproj",
               "ToolTip": "C:\\Users\\Henrique\\Documents\\CursoNET\\programs\\Room3d\\Room3d.csproj",
               "RelativeToolTip": "Room3d.csproj",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-15T20:03:49.113Z",
               "EditorCaption": ""
