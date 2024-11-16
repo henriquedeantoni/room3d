@@ -29,3 +29,4 @@ C:\Users\Henrique\Documents\CursoNET\programs\Room3d\obj\Debug\net8.0\refint\Roo
 C:\Users\Henrique\Documents\CursoNET\programs\Room3d\obj\Debug\net8.0\Room3d.pdb
 C:\Users\Henrique\Documents\CursoNET\programs\Room3d\obj\Debug\net8.0\Room3d.genruntimeconfig.cache
 C:\Users\Henrique\Documents\CursoNET\programs\Room3d\obj\Debug\net8.0\ref\Room3d.dll
+C:\Users\Henrique\Documents\CursoNET\programs\Room3d\obj\Debug\net8.0\Room3d.sourcelink.json
