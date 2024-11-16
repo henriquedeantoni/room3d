@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Room3d")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae9eb2a216b1bb32b6e17d1708e5a47266348398")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b51fc1a10326a251ee825380e91b4de44ff6cb25")]
 [assembly: System.Reflection.AssemblyProductAttribute("Room3d")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Room3d")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
